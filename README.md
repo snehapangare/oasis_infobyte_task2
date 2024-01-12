@@ -57,17 +57,18 @@ For any inquiries, collaboration opportunities, or to discuss potential projects
 - **LinkedIn:** [Sneha Pangare](https://www.linkedin.com/in/sneha-pangare-48b15b1a1)
 - **GitHub:** [GitHub Repository](https://github.com/snehapangare/Cake_shop)
 ##"The website is designed to showcase my portfolio, featuring details about my education, projects, skills, and more, accompanied by visually appealing images for a more engaging experience."
-
-![Screenshot (114)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/d6796204-de7f-42cc-ae8c-f55fe959ec69)
-
-![Screenshot (113)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/29045fa7-bf79-49a1-b2b8-b1f7e6ceafd8)
-
-
-![Screenshot (112)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/359636dc-85b4-4bcf-b8a6-fed11578289d)
+![Screenshot (110)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/4b133254-0204-4674-9bb6-d83aed48a1af)
 
 ![Screenshot (111)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/58d9386e-2584-495e-ad4d-bbe4ce79ac13)
 
-![Screenshot (110)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/4b133254-0204-4674-9bb6-d83aed48a1af)
+![Screenshot (112)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/359636dc-85b4-4bcf-b8a6-fed11578289d)
+
+![Screenshot (113)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/29045fa7-bf79-49a1-b2b8-b1f7e6ceafd8)
+
+![Screenshot (114)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/d6796204-de7f-42cc-ae8c-f55fe959ec69)
+
+
+
 
 
 
