@@ -57,6 +57,7 @@ For any inquiries, collaboration opportunities, or to discuss potential projects
 - **LinkedIn:** [Sneha Pangare](https://www.linkedin.com/in/sneha-pangare-48b15b1a1)
 - **GitHub:** [GitHub Repository](https://github.com/snehapangare/Cake_shop)
 ##"The website is designed to showcase my portfolio, featuring details about my education, projects, skills, and more, accompanied by visually appealing images for a more engaging experience."
+
 ![Screenshot (110)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/4b133254-0204-4674-9bb6-d83aed48a1af)
 
 ![Screenshot (111)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/58d9386e-2584-495e-ad4d-bbe4ce79ac13)
