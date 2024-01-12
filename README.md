@@ -69,10 +69,6 @@ For any inquiries, collaboration opportunities, or to discuss potential projects
 ![Screenshot (114)](https://github.com/snehapangare/oasis_infobyte_task2/assets/154306103/d6796204-de7f-42cc-ae8c-f55fe959ec69)
 
 
-
-
-
-
 Looking forward to connecting with you!
 
 ---
